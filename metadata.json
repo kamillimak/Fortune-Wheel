@@ -1,0 +1,7 @@
+{
+  "name": "Team Fortune Wheel",
+  "description": "A fun and interactive fortune wheel with real-time AI Polish commentary and randomized team splitting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
